@@ -33,7 +33,7 @@ print(stack.full())
 for i in range(n):
     print(stack.get())
 ```
-## 🧪 Sample Input and Output
+##  Sample Input and Output
 ![image](https://github.com/user-attachments/assets/8d592eb5-56ac-401e-9fda-c44c7aa2cea6)
 
 ## Result:
